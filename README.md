@@ -2,7 +2,7 @@
 
 **Backend Engineer | Spring Boot Specialist | Distributed Systems Architect**
 
-I’m a performance-oriented backend engineer passionate with strong expertise in Java and Spring Boot, I specialize in designing robust microservices, event-driven architectures, and production-grade backend solutions.
+I’m a performance-oriented backend engineer with strong expertise in Java and Spring Boot. I specialize in designing robust microservices, event-driven architectures, and production-grade backend solutions.
 
 ---
 
@@ -71,7 +71,7 @@ I’m a performance-oriented backend engineer passionate with strong expertise i
 
 ---
 
-🤝 Let’s Connect
+### 🤝 Let’s Connect
 
 📧 Email: [jolayemibimbo@gmail.com](mailto:jolayemibimbo@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/abimbola-jolayemi](https://linkedin.com/in/abimbola-jolayemi-8b284b201)
